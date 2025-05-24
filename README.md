@@ -1,9 +1,0 @@
-# .github
-# .github
-# K.Knock
-# ERD
-# Blog
-# .github
-# .github
-# FE
-# ERD
